@@ -1,0 +1,210 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 705 (ID=0x104c)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8266
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\b1013\Documents\SystemVerLast\SystemVerLast_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.996858 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2794 -> priority: 1 
+  Thread -> id: 9ea8 -> priority: 1 
+g2117047
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+poti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.979669 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 813.
+Total: 0.288024 ms (FindLiveObjects: 0.043620 ms CreateObjectMapping: 0.017319 ms MarkObjects: 0.212329 ms  DeleteObjects: 0.014112 ms)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!0:30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!18:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+matchng
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BeforeReTune
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BeforeAfterReTune
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SLIDE!16:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!0:30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!0:30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+matchng
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimingTune:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!18:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+matchng
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BeforeReTune
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BeforeAfterReTune
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!18:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!18:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SLIDE!16:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SLIDE!16:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+matchng
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimingTune:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SLIDE!16:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+JUMP!0:30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+matchng
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimingTune:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+poti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579576 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.457053 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.201745 ms  DeleteObjects: 0.216178 ms)
+
